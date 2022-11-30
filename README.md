@@ -1,0 +1,3 @@
+# SPI DMA
+
+使用STM32h750的SPI通讯接口结合DMA与MPU9250通讯
